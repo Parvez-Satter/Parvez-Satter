@@ -10,12 +10,13 @@
 
 <h3 align="left">Top Projects:</h3>
 <ul align="left">
-<li>DC to DC linear converter Vout=3.3v&5V,1A </li>
+  <li>DC to DC linear converter Vout=3.3v&5V,1A </li>
 </ul>
 
 <h3 align="left">On going projects:</h3>
 <ul align="left">
-<li>Fan regulator</li>
+  <li>Fan regulator</li>
+  <li>5V 1A mobile charger LQ</li>
 </ul>
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=emadul-hasan&show_icons=true&locale=en&layout=compact" alt="emadul-hasan" /></p>
