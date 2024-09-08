@@ -15,7 +15,7 @@
   <li>DC to DC Buck converter Vout=3.3V,3A </li>
 </ul>
 
-<h3 align="left">On going projects:</h3>
+<h4 align="left">On going projects:</h4>
 <ul align="left">
   <li>Fan regulator</li>
   <li>5V 1A mobile charger LQ</li>
