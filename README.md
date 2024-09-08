@@ -8,9 +8,11 @@
 
 - 📫 E-mail: parvezsatter71@gmail.com
 
-<h3 align="left">Top Projects:</h3>
+<h3 align="left">Projects:</h3>
+<h4 align="left">DC to DC converter</h4>
 <ul align="left">
-  <li>DC to DC linear converter Vout=3.3v&5V,1A </li>
+  <li>DC to DC linear converter Vout=3.3V&5V,1A </li>
+  <li>DC to DC Buck converter Vout=3.3V,3A </li>
 </ul>
 
 <h3 align="left">On going projects:</h3>
