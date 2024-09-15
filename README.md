@@ -9,10 +9,16 @@
 - 📫 E-mail: parvezsatter71@gmail.com
 
 <h3 align="left">Projects:</h3>
+
 <h4 align="left"><a href="https://github.com/Parvez-Satter/Portfolio?tab=readme-ov-file#dc-to-dc--converter" target="_blank">DC to DC converter</a> </h4>
 <ul align="left">
   <li>DC to DC linear converter Vout=3.3V&5V,1A </li>
   <li>DC to DC Buck converter Vout=3.3V,3A </li>
+</ul>
+
+<h4 align="left"><a href="https://github.com/Parvez-Satter/Portfolio/blob/main/README.md#fan-regulator" target="_blank">Fan Regulator</a> </h4>
+<ul align="left">
+  <li>P.Fan Regulator </li>
 </ul>
 
 <h4 align="left">On going projects:</h4>
