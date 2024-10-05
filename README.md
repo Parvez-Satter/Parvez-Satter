@@ -21,6 +21,12 @@
   <li>P.Fan Regulator </li>
 </ul>
 
+<h4 align="left"><a href="https://github.com/Parvez-Satter/4-Chanel-Relay-Module/blob/main/README.md#4-chanel-relay-module-5v" target="_blank">Relay Circuit</a> </h4>
+<ul align="left">
+  <li>4 Chanel Relay Module 5V</li>
+</ul>
+
+
 <h4 align="left">On going projects:</h4>
 <ul align="left">
   <li>Fan regulator</li>
