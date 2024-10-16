@@ -16,6 +16,11 @@
   <li>DC to DC Buck converter Vout=3.3V,3A </li>
 </ul>
 
+<h4 align="left"><a href="https://github.com/Parvez-Satter/Portfolio/blob/main/README.md#fan-controller" target="_blank">Fan Controller</a> </h4>
+<ul align="left">
+  <li>Mini Fan Circuit 3-Step Speed Controler</li>
+</ul>
+
 <h4 align="left"><a href="https://github.com/Parvez-Satter/Portfolio/blob/main/README.md#fan-regulator" target="_blank">Fan Regulator</a> </h4>
 <ul align="left">
   <li>P.Fan Regulator </li>
