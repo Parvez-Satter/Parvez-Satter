@@ -35,6 +35,7 @@
 <h4 align="left">On going projects:</h4>
 <ul align="left">
   <li>Fan regulator</li>
+  <li>12/14 inch Fan Controller</li>
   <li>5V 1A mobile charger LQ</li>
 </ul>
 
