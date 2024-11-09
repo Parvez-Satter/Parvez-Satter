@@ -7,6 +7,7 @@
 <img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/56286558/213905300-116e9c52-a77f-4d3d-9040-00535d7395c2.gif">
 
 - 📫 E-mail: parvezsatter71@gmail.com
+- TO see my portfolio <a href="https://github.com/Parvez-Satter/Portfolio" target="_blank">click here</a>.
 
 <h3 align="left">Projects:</h3>
 
