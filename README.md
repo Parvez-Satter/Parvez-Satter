@@ -22,14 +22,14 @@
   <li>Mini Fan Circuit 3-Step Speed Controler</li>
 </ul>
 
-<h4 align="left"><a href="https://github.com/Parvez-Satter/Portfolio/blob/main/README.md#filter-circuit" target="_blank">Filter Circuit</a> </h4>
-<ul align="left">
-  <li>Microwave-Oven Input Noise Filter </li>
-</ul>
-
 <h4 align="left"><a href="https://github.com/Parvez-Satter/Portfolio/blob/main/README.md#fan-regulator" target="_blank">Fan Regulator</a> </h4>
 <ul align="left">
   <li>P.Fan Regulator </li>
+</ul>
+
+<h4 align="left"><a href="https://github.com/Parvez-Satter/Portfolio/blob/main/README.md#filter-circuit" target="_blank">Filter Circuit</a> </h4>
+<ul align="left">
+  <li>Microwave-Oven Input Noise Filter </li>
 </ul>
 
 <h4 align="left"><a href="https://github.com/Parvez-Satter/Portfolio/blob/main/README.md#relay-circuit" target="_blank">Relay Circuit</a> </h4>
