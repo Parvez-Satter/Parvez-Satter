@@ -28,6 +28,11 @@
   <li>ACI.Fan Regulator </li>
 </ul>
 
+<h4 align="left"><a href="https://github.com/Parvez-Satter/Portfolio/blob/main/README.md#smps" target="_blank">SMPS</a> </h4>
+<ul align="left">
+  <li>12V2A_LEDM1 </li>
+</ul>
+
 <h4 align="left"><a href="https://github.com/Parvez-Satter/Portfolio/blob/main/README.md#filter-circuit" target="_blank">Filter Circuit</a> </h4>
 <ul align="left">
   <li>Microwave-Oven Input Noise Filter </li>
@@ -42,6 +47,7 @@
 <h4 align="left">On going projects:</h4>
 <ul align="left">
   <li>Fan regulator</li>
+  <li>SMPS</li>
   <li>12/14 inch Fan Controller</li>
   <li>5V 1A mobile charger LQ</li>
 </ul>
