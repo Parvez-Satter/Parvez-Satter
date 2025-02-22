@@ -20,6 +20,7 @@
 <h4 align="left"><a href="https://github.com/Parvez-Satter/Portfolio/blob/main/README.md#fan-controller" target="_blank">Fan Controller</a> </h4>
 <ul align="left">
   <li>Mini Fan Circuit 3-Step Speed Controler</li>
+  <li>12/14 inch Fan Controller</li>
 </ul>
 
 <h4 align="left"><a href="https://github.com/Parvez-Satter/Portfolio/blob/main/README.md#fan-regulator" target="_blank">Fan Regulator</a> </h4>
@@ -48,7 +49,7 @@
 <ul align="left">
   <li>Fan regulator</li>
   <li>SMPS</li>
-  <li>12/14 inch Fan Controller</li>
+  <li>Fan Controller</li>
   <li>5V 1A mobile charger LQ</li>
 </ul>
 
