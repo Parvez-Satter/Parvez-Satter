@@ -34,6 +34,11 @@
   <li>12V2A_LEDM1 </li>
 </ul>
 
+<h4 align="left"><a href="https://github.com/Parvez-Satter/Portfolio/blob/main/README.md#mobile-charger" target="_blank">Mobile Charger</a> </h4>
+<ul align="left">
+  <li>5V1A LQ Mobile charger </li>
+</ul>
+
 <h4 align="left"><a href="https://github.com/Parvez-Satter/Portfolio/blob/main/README.md#filter-circuit" target="_blank">Filter Circuit</a> </h4>
 <ul align="left">
   <li>Microwave-Oven Input Noise Filter </li>
