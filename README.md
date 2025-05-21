@@ -55,7 +55,7 @@
   <li>Fan regulator</li>
   <li>SMPS</li>
   <li>Fan Controller</li>
-  <li>5V 1A mobile charger LQ</li>
+  <li>Mobile charger</li>
 </ul>
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=emadul-hasan&show_icons=true&locale=en&layout=compact" alt="emadul-hasan" /></p>
